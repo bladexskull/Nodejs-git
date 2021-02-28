@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "\"This is a  directory to learn node with git\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bladexskull/Nodejs-git.git"
+  },
+  "keywords": [
+    "console",
+    "mqueue/",
+    "random",
+    "sda2",
+    "stderr",
+    "ttyS3"
+  ],
+  "author": "Rahul Deewana",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
